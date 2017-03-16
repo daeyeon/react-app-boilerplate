@@ -1,6 +1,6 @@
 # React App Boilerplate #
 
-[Create React App](https://github.com/facebookincubator/create-react-app) is well-curated bootstrapper for React. Since it's being developed, some useful features such as Sass or LESS are not supported as of now. This project is initially auto-scaffolded using 'Create React App', then that sort of missing features are manually added.
+[Create React App](https://github.com/facebookincubator/create-react-app) is well-curated bootstrapper for React. Since it's being developed, some useful features such as Sass or LESS are not supported as of now. This project was initially auto-scaffolded using 'Create React App', then that sort of missing features were manually added.
 
 ## Features ##
 - [SASS](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
